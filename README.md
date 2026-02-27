@@ -16,7 +16,7 @@ The analysis enables:
 
 This code is based on and extends the methodology and implementation provided in the repository:
 
-- RES_droughts hosted on (https://github.com/BorisM202/RES_droughts?tab=readme-ov-file)
+- RES_droughts hosted on (https://github.com/BorisM202/RES_droughts)
 
 which accompanies the research article:
 _Reducing RES Droughts through the integration of wind and solar PV
