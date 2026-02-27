@@ -1,4 +1,4 @@
-# IEA-Task---Energy-Dunkelflaute-Analysis-
+# Energy-Dunkelflaute-Analysis-
  
 This repository provides a reproducible workflow for the identification and analysis of renewable energy Dunkelflaute (Energy Drought) events. The framework focuses on the joint behavior of wind and solar PV generation and quantifies the impact of diversification on low-production periods.
 
